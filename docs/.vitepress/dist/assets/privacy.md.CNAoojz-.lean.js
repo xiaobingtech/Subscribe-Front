@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a2 as r}from"./chunks/framework.Sicmpk4x.js";const m=JSON.parse('{"title":"隐私协议","description":"","frontmatter":{},"headers":[],"relativePath":"privacy.md","filePath":"privacy.md"}'),o={name:"privacy.md"},i=r("",11),c=[i];function n(h,s,l,d,p,_){return t(),e("div",null,c)}const f=a(o,[["render",n]]);export{m as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a2 as r}from"./chunks/framework.Sicmpk4x.js";const m=JSON.parse('{"title":"服务协议","description":"","frontmatter":{},"headers":[],"relativePath":"service.md","filePath":"service.md"}'),o={name:"service.md"},i=r("",11),s=[i];function c(n,h,l,d,_,p){return t(),e("div",null,s)}const f=a(o,[["render",c]]);export{m as __pageData,f as default};

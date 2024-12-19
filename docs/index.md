@@ -5,13 +5,16 @@ layout: home
 hero:
   name: "订阅酱"
   text: "实时查看粉丝数据"
-  tagline: 
+  tagline:
   image:
     src: https://subscribe.app.xiaobingkj.com/subscribe_snapshot.png
   actions:
     - theme: brand
       text: AppStore
       link: https://apps.apple.com/app/id1619889012
+    - theme: brand
+      text: 鸿蒙商店
+      link: https://appgallery.huawei.com/detail?id=com.xiaobingkj.subscribe
     - theme: alt
       text: 常见问题
       link: /faq
@@ -23,4 +26,3 @@ features:
     title: 精确值
     details: 个位数
 ---
-
