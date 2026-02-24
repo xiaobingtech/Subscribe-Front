@@ -1,0 +1,1 @@
+import{_ as e,o as r,c as t,ai as i}from"./chunks/framework.CaiDwmc7.js";const _=JSON.parse('{"title":"隐私协议","description":"","frontmatter":{},"headers":[],"relativePath":"privacy.md","filePath":"privacy.md"}'),n={name:"privacy.md"};function l(o,a,c,h,p,s){return r(),t("div",null,[...a[0]||(a[0]=[i("",11)])])}const m=e(n,[["render",l]]);export{_ as __pageData,m as default};
