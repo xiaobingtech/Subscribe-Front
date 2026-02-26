@@ -14,7 +14,7 @@ hero:
       link: https://apps.apple.com/app/id1619889012
     - theme: brand
       text: 鸿蒙商店
-      link: https://appgallery.huawei.com/detail?id=com.xiaobingkj.subscribe
+      link: https://appgallery.huawei.com/app/detail?id=com.xiaobingkj.subscribe&channelId=LAUNCHERSHARE
     - theme: alt
       text: 常见问题
       link: /faq
